@@ -1,0 +1,9 @@
+rank,id,type,url,broadcast_by_mps,bcing_mps_group
+A,1586366272924782593,tweet,https://twitter.com/bfmtv/status/1586366272924782593,3,"{""RN"":2,""LFI"":1}"
+B,1585983865960927232,tweet,https://twitter.com/lehuffpost/status/1585983865960927232,5,"{""SOC"":3,""LFI"":2}"
+C,1586019282604941314,tweet,https://twitter.com/jccombe/status/1586019282604941314,5,"{""REN"":4,""MODEM"":1}"
+D,1586379873534169088,tweet,https://twitter.com/sandrousseau/status/1586379873534169088,4,"{""MODEM"":1,""REN"":3}"
+E,lemonde.fr/societe/article/2022/10/29/hebergement-d-urgence-le-gouvernement-renonce-a-supprimer-des-places-pour-les-sans-abri_6147795_3224.html,url,https://lemonde.fr/societe/article/2022/10/29/hebergement-d-urgence-le-gouvernement-renonce-a-supprimer-des-places-pour-les-sans-abri_6147795_3224.html,8,"{""LFI"":6,""ECO"":2}"
+F,1586397293606903809,tweet,https://twitter.com/gdarmanin/status/1586397293606903809,7,"{""REN"":4,""MODEM"":2,""LFI"":1}"
+G,1586299099770298368,tweet,https://twitter.com/x/status/1586299099770298368,6,"{""RN"":6}"
+H,1586422749811343360,tweet,https://twitter.com/gendarmerie/status/1586422749811343360,2,"{""MODEM"":2}"
