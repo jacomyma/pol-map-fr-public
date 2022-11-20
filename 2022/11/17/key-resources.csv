@@ -1,0 +1,9 @@
+rank,id,type,url,broadcast_by_mps,bcing_mps_group
+A,1592904285146255362,tweet,https://twitter.com/publicsenat/status/1592904285146255362,3,"{""REN"":3}"
+B,1592532706180870146,tweet,https://twitter.com/LaureLavalette/status/1592532706180870146,12,"{""RN"":12}"
+C,1592611449947537411,tweet,https://twitter.com/lobs/status/1592611449947537411,2,"{""ECO"":2}"
+D,1592790973939339264,tweet,https://twitter.com/MLP_officiel/status/1592790973939339264,7,"{""RN"":7}"
+E,1592830382533402626,tweet,https://twitter.com/FiAssemblee/status/1592830382533402626,33,"{""LFI"":33}"
+F,1592843849545977856,tweet,https://twitter.com/EmmanuelMacron/status/1592843849545977856,2,"{""REN"":2}"
+G,1592920890492489729,tweet,https://twitter.com/Francois_Ruffin/status/1592920890492489729,2,"{""LFI"":2}"
+H,1592818027917037568,tweet,https://twitter.com/Francois_Ruffin/status/1592818027917037568,2,"{""ECO"":1,""LFI"":1}"

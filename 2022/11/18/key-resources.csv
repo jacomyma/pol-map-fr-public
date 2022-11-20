@@ -1,0 +1,9 @@
+rank,id,type,url,broadcast_by_mps,bcing_mps_group
+A,1592904285146255362,tweet,https://twitter.com/publicsenat/status/1592904285146255362,3,"{""REN"":3}"
+B,1593144405833261056,tweet,https://twitter.com/CaronAymericoff/status/1593144405833261056,2,"{""LFI"":2}"
+C,1592910578497921024,tweet,https://twitter.com/yannickneuder/status/1592910578497921024,2,"{""LR"":2}"
+D,1593209208182550529,tweet,https://twitter.com/jsanchez_rn/status/1593209208182550529,3,"{""RN"":3}"
+E,1593173420375937027,tweet,https://twitter.com/mbompard/status/1593173420375937027,4,"{""LFI"":4}"
+F,1592611449947537411,tweet,https://twitter.com/lobs/status/1592611449947537411,2,"{""ECO"":2}"
+G,lefigaro.fr/actualite-france/ocean-viking-26-des-44-mineurs-pris-en-charge-ont-fugue-20221117,url,https://lefigaro.fr/actualite-france/ocean-viking-26-des-44-mineurs-pris-en-charge-ont-fugue-20221117,11,"{""RN"":9,""NI"":1,""LR"":1}"
+H,1593272986643169282,tweet,https://twitter.com/J_Bardella/status/1593272986643169282,11,"{""RN"":11}"
